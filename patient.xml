@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Main.Patient">
+    <void property="TAJ">
+     <string>000 000 001</string>
+    </void>
+    <void property="bloodType">
+     <string>A+</string>
+    </void>
+    <void property="dateOfBirth">
+     <object class="java.util.Date">
+      <long>347151840000</long>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Joe</string>
+    </void>
+    <void property="height">
+     <int>181</int>
+    </void>
+    <void property="lastName">
+     <string>Smith</string>
+    </void>
+    <void property="note">
+     <string>Active</string>
+    </void>
+    <void property="status">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
