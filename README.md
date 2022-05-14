@@ -21,4 +21,4 @@ Alul a message rublika pedig kiírja az aktuális folyamatot, ezzel is könnyít
 
 
 
-(Alul a listázásra kattintva pedig a páciensek adatait tekinthetjük meg lebontva, a fenti kritériumoknak megfelelően. - legalábbis ez lett volna az elképzelés, de sajnos a megjelenítés nem működött megfelelően, ugyanis csak az alap 3 páciensüket sorolte fel)  
+(Alul a listázásra kattintva pedig a páciensek adatait tekinthetjük meg lebontva, a fenti kritériumoknak megfelelően. - legalábbis ez lett volna az elképzelés, de sajnos a megjelenítés nem működött megfelelően, ugyanis csak az alap 3 páciensüket sorolta fel. )  
